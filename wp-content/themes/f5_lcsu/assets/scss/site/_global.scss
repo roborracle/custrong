@@ -1,0 +1,356 @@
+/*
+ Global styles for FoundationPress
+ Demo: http://foundationpress.olefredrik.com
+*/
+
+// Prettify type rendering
+body {
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizeLegibility;
+}
+
+// Reset margin and padding on figure element
+figure {
+	margin: 0;
+	padding: 0;
+}
+
+// Add some basic styling for figcaption element
+figcaption {
+	margin-bottom: rem-calc(20);
+	margin-top: rem-calc(10);
+	color: #6f6f6f;
+}
+
+// Add the alignment classes used by the WordPress media library
+
+// color defaults
+
+$pjm-red: 		#cc3524;
+$pjm-blue:		#1f355e;
+$pjm-ltblue:	#00a5b5;
+$pjm-grey: 		#414141;
+$pjm-mdgrey:	#555354;
+$pjm-ltgrey: 	#AFAFB1;
+$pjm-green: 	#95D600; 
+
+.alignleft {
+	float: left;
+}
+
+.alignright {
+	float: right;
+}
+
+.aligncenter {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.full-width {
+   width: 100%;
+   margin-left: auto;
+   margin-right: auto;
+   max-width: initial;
+}
+
+blockquote.alignleft,
+img.alignleft {
+	margin: rem-calc(7) rem-calc(24) rem-calc(7) 0;
+}
+
+.wp-caption.alignleft {
+	margin: rem-calc(7) rem-calc(14) rem-calc(7) 0;
+}
+
+blockquote.alignright,
+img.alignright {
+	margin: rem-calc(7) 0 rem-calc(7) rem-calc(24);
+}
+
+.pjm-hero {
+	background: $pjm-blue;
+	background-size:100%;
+	background-repeat:no-repeat;
+	background-position:bottom 	center;
+	min-height:800px;
+	& h2 {color:white;}
+	& h4 {color:$pjm-ltblue;}
+
+	img {
+		height:150px;
+		width:150px;
+	}
+	p {color:white;}
+}
+
+
+
+.pjm-title {
+	display:inline-block;
+	border-bottom:5px solid $pjm-red;
+	font-size:3rem;
+
+}
+
+.v-align {
+	white-space:nowrap;
+	// height:700px;
+}
+
+.v-align:before {  
+	content: '';
+  	display: inline-block;
+  	height: 100%;
+  	vertical-align: middle;
+  	margin-right: -0.25em; /* Adjusts for spacing */
+}
+
+.v-align-wrap {
+	position:relative;
+	display:inline-block;
+	vertical-align:middle;
+	white-space:normal;
+}
+
+li.name {
+	float:left; 
+	margin-right:20px;
+}
+
+.about-bg {
+	// background:url(../images/Pete_Mitchell.png);
+	background-repeat:no-repeat;
+	background-position:right;
+	border-bottom:1px solid $pjm-ltgrey;
+}
+
+.full-width.about {
+	padding-top:50px;
+}
+
+.full-width.about-two {
+    padding:100px 0;
+}
+
+.about-two .row.text {
+   margin-bottom:50px;
+    padding-bottom:50px;
+    border-bottom:1px solid $pjm-ltgrey;
+}
+
+.full-width.testimonials {
+	background:$pjm-blue;
+	padding-top:100px;
+	padding-bottom:100px;
+	& p {
+		font-family: 'montserratregular';
+		color:white;
+	}
+
+	& blockquote {
+		font-style: italic;
+	}
+
+	& h2 {
+		color:white;
+		display:inline-block;
+		font-size:3rem;
+		border-bottom:5px solid $pjm-red;
+		margin-bottom:40px;
+	}
+}
+
+.full-width.testimonials {
+
+	& img {width:174px;}
+	
+	& .row {
+    margin-bottom:50px;
+    padding-bottom:30px;
+    border-bottom:2px solid $pjm-ltblue;
+	}
+
+}
+
+.full-width.contact {
+	padding-top:100px;
+	padding-bottom:100px;
+    background: $pjm-grey;
+    color:#fff !important;
+
+    & h2 {
+		color:white;
+		display:inline-block;
+		font-size:3rem;
+		border-bottom:5px solid $pjm-red;
+		margin-bottom:40px;
+	}
+
+	& .first {
+    border-right:1px solid white;
+	}
+}
+
+.pjm-contact-inner.initial {
+    padding:0 20px 0 0;
+}
+
+.pjm-contact-inner.second {
+    padding: 0 0 0 20px;
+}
+
+div#cf7_form_box {
+	& p {
+    	color:#fff;
+		}
+
+    & input, & textarea {
+    	color:white;
+    	background:$pjm-mdgrey;
+    	border:none;
+    	}
+}
+
+.postscript {font-size:0.8rem;
+color:$pjm-ltgrey;}
+
+.contact-inner h6 {display:none;}
+
+#footer-container {
+	margin-top:0 !important;
+	border-top:0 !important;
+}
+
+.title-area img {
+    height:100px;
+    padding-top:10px;
+	padding-bottom:10px;
+}
+
+.top-bar-container {
+	background:white;
+	height:120px;
+	padding-top:10px;
+	padding-bottom:10px;
+	box-shadow: 0 4px 4px rgba(0,0,0,0.35);
+}
+
+.top-bar {
+	background:white;
+	height:100px;
+}
+
+.pjm-button .button {
+	margin-top:50px;
+}
+
+.pjm-button .button:link, .pjm-button .button:visited {
+    background:$pjm-red;
+    text-transform:uppercase;
+    font-family: 'montserratsemi_bold';
+}
+
+.pjm-button .button:hover {
+	background:$pjm-ltblue;
+}
+
+.pjm-hero-inner.start {
+    margin-top:50px;
+    margin-bottom:50px;
+    & h2 {
+    	display:inline-block;
+		font-size:3rem;
+		border-bottom:5px solid $pjm-red;
+    }
+
+}
+
+input.wpcf7-form-control.wpcf7-submit, input.wpcf7-form-control.wpcf7-submit {
+	font-family: 'montserratsemi_bold';
+	text-transform:uppercase;
+    background:$pjm-red !important;
+    padding:12px 60px;
+    border:0;
+}
+
+input.wpcf7-form-control.wpcf7-submit:hover {
+	background:$pjm-ltblue;
+}
+
+//notched box
+
+.notched-box {
+  position: relative;
+  // margin: 2em auto;
+  padding: 2em 0;
+  //overflow: hidden;
+}
+
+.notched-box:before,
+.notched-box:after {
+	content:'';
+	position: absolute;
+	z-index: 1;
+	bottom: 0;
+	height: 0;
+	width: 50%;
+	border-bottom: 1.5em solid #fff;
+	box-sizing: border-box;
+}
+
+.pjm-hero.notched-box:before,
+.pjm-hero.notched-box:after {
+	border-bottom: 1.5em solid white;
+	}
+
+.about-two.notched-box:before,
+.about-two.notched-box:after {
+	border-bottom: 1.5em solid $pjm-blue;
+	}
+
+.testimonials.notched-box:before,
+.testimonials.notched-box:after {
+	border-bottom: 1.5em solid $pjm-grey;
+	}
+
+.notched-box:before {
+	left: 0;
+	border-right: 2em solid transparent;
+}
+
+.notched-box:after {
+	right:0;
+	border-left: 2em solid transparent;
+}
+
+// menu fixes
+
+.top-bar-section ul li, .top-bar-section li.active:not(.has-form) a:not(.button), .top-bar-section li:not(.has-form) a:not(.button) {
+	font-family: 'montserratregular';
+	text-transform:uppercase;
+	color:$pjm-grey;
+	background:white;
+	margin-top:14px;
+}
+
+.top-bar-section li.active:not(.has-form) a:not(.button):hover, .top-bar-section li:not(.has-form) a:not(.button):hover {
+	font-family: 'montserratregular';
+	text-transform:uppercase;
+	background:white;
+	color:$pjm-grey;
+	border-bottom:4px solid $pjm-red;
+}
+
+.top-bar-section > ul > .divider,
+    .top-bar-section > ul > [role="separator"] {
+    border:none;
+}
+
+.testimonials img {
+    border-radius:100%;
+    border:10px solid white;
+    -moz-border-radius:10px solid white;
+    -webkit-border-radius:10px solid white;
+}

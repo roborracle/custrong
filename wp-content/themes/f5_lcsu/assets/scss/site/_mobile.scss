@@ -1,0 +1,93 @@
+// media queries
+
+@media only screen and (max-width: 820px) {
+	.top-bar-container {
+		display:none;
+	}
+
+	nav.tab-bar {
+    background:white;
+
+}
+
+nav.tab-bar h1 {
+    color:$pjm-grey;
+}
+
+
+	.tab-bar .menu-icon span::after {
+    content: "";
+    display: block;
+    height: 0;
+    position: absolute;
+    top: 50%;
+    margin-top: -0.5rem;
+    left: 0.90625rem;
+    box-shadow: 0 0 0 1px $pjm-grey, 0 7px 0 1px $pjm-grey, 0 14px 0 1px $pjm-grey;
+    width: 1rem;
+    }
+
+    .about-bg {
+    	background-position:bottom right;
+    	background-size:80%;
+    }
+
+    .full-width.about-two {
+			padding:40px 0;
+		}
+
+}
+
+@media only screen and (max-width:568px) {
+
+	.v-align {
+			margin-top:40px;
+			height:auto;
+		}
+
+	.about-bg {
+    	background-position:bottom right;
+    	background-size:50%;
+    }
+
+    h2.pjm-about {
+			font-size:3rem;
+			line-height:3rem;
+		}
+
+	.full-width.testimonials h2 {
+			font-size:2rem;
+		}
+
+	.full-width.contact .first {
+			border-right:none;
+		}
+
+	.pjm-contact-inner.initial {
+			padding:0;
+		}
+
+	.pjm-hero-inner.start {
+		margin-top:10px;
+		margin-bottom:10px;
+	}
+	.pjm-hero {
+		height:auto;
+	}
+
+	.pjm-about-quote .about-sig {
+		font-size:1rem;
+	}
+}
+
+@media only screen and (max-width: 320px) {
+		.v-align {
+			margin-top:20px;
+			height:auto;
+		}
+		.pjm-hero {
+		background: #162E54;
+		}
+
+		
+	}
