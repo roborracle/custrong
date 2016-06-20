@@ -62,7 +62,7 @@ get_header(); ?>
                 We take action.
             </h2>
 
-            <p><strong>Joining the real network of LSCU & CUNA means you get access to maximum action in national advocacy for credit unions than the competitor, NAFCU. Check out our network vs. the competition by hovering over the map below:</strong></p>
+            <p><strong>Joining the real network of LSCU & CUNA means you get access to maximum action in national advocacy for credit unions. Check out our network vs. the competition by hovering over the map below:</strong></p>
             <div class="map-region">&nbsp;</div>
         </div>
     </div>
