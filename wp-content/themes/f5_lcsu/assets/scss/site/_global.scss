@@ -130,7 +130,17 @@ li.name {
 .full-width.about {
 	padding-top:50px;
 	overflow:hidden;
-	max-height:800px;
+	.map-region {
+    background:red;
+    height:600px;
+    background: url(../images/map.png);
+    background-position:0 0;
+
+	}
+	.map-region:hover {
+		background: url(../images/map.png);
+		background-position:0 600px;
+	}
 }
 
 .full-width.about-two {

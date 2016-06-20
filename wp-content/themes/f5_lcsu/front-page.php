@@ -61,7 +61,8 @@ get_header(); ?>
                 We're not all talk. <br />
                 We take action.
             </h2>
-            <script type='text/javascript' src='https://public.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1004px; height: 669px;'><noscript><a href='#'><img alt='Dashboard 4 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;MW&#47;MW7MKZ53P&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz' width='1004' height='669' style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='path' value='shared&#47;MW7MKZ53P' /> <param name='toolbar' value='no' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;MW&#47;MW7MKZ53P&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='showTabs' value='y' /></object></div>
+            <p><strong>Joining the real network of LSCU & CUNA means you get access to more action in national advocacy for credit unions than the competitor, NAFCU. Check out our network vs. the competition by hovering over the map below:</strong></p>
+            <div class="map-region">&nbsp;</div>
         </div>
     </div>
 
