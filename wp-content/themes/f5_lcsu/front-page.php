@@ -19,7 +19,7 @@ get_header(); ?>
                         </h4>
                         </h4>
                         <p class="pjm-button">
-                            <a href="#" class="button">Yes! I'm ready to join!</a>
+                            <a href="#join" class="button">Yes! I'm ready to join!</a>
                         </p>
                     </div>
                 </div>
@@ -61,6 +61,7 @@ get_header(); ?>
                 We're not all talk. <br />
                 We take action.
             </h2>
+
             <p><strong>Joining the real network of LSCU & CUNA means you get access to more action in national advocacy for credit unions than the competitor, NAFCU. Check out our network vs. the competition by hovering over the map below:</strong></p>
             <div class="map-region">&nbsp;</div>
         </div>
@@ -198,7 +199,7 @@ get_header(); ?>
         </div>
     </div>
 </div>
-<div class="full-width contact notched-box">
+<div id="join" class="full-width contact notched-box">
     <div class="ps-border ps-translucent"></div>
     <div class="row ">
     <div class="medium-6 small-12 columns medium-text-right small-text-center">
