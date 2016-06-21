@@ -62,8 +62,11 @@ get_header(); ?>
                 We take action.
             </h2>
 
-            <p><strong>Joining the real network of LSCU & CUNA means you get access to maximum action in national advocacy for credit unions. Check out our network vs. the competition by hovering over the map below:</strong></p>
-            <div class="map-region">&nbsp;</div>
+            <p><strong>Joining the real network of LSCU & CUNA means you get access to maximum action in national advocacy for credit unions. Check out our network vs. the competition by <span class="show-for-medium-up show-for-touch">tapping on the map below:<span class="show-for-medium-up hide-for-touch">hovering over the map below:</span></span><span class="show-for-small-only">viewing the maps below:</span></strong></p>
+            <div class="map-region" onclick="">
+            <img class="map-as-button" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/map.png" />
+            </div>
+            
         </div>
     </div>
 
@@ -116,10 +119,20 @@ get_header(); ?>
                 <li>and so much more.</li>
             </ul>
 
+            <div class="show-for-medium-up">
+            <p class="text-center"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/webgraphic-1.png" / ></p> 
+            <p class="text-center"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/webgraphic-2.png" / ></p>
+             <p class="text-center"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/webgraphic-3.png" / ></p>
+             </div>
 
-            <p align="center"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/webgraphic-1.png" / ></p> 
-            <p align="center"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/webgraphic-2.png" / ></p>
-             <p align="center"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/webgraphic-3.png" / ></p>
+             <div class="map-region-small show-for-small-only">
+            <p class="text-center"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/sm-webgraphic-01.png" alt="" /></p>
+            <p class="text-center"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/sm-webgraphic-02a.png" alt="" /></p>
+            <p class="text-center"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/sm-webgraphic-02b.png" alt="" /></p>
+            <p class="text-center"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/sm-webgraphic-03a.png" alt="" /></p>
+            <p class="text-center"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/sm-webgraphic-03b.png" alt="" /></p>            
+            </div>
+
         </div>
 
     </div>

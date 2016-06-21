@@ -131,16 +131,21 @@ li.name {
 	padding-top:50px;
 	overflow:hidden;
 	.map-region {
-    background:red;
     height:600px;
     background: url(../images/map.png);
     background-position:0 0;
+    background-size:100%;
+    .map-as-button {
+    	opacity:0;
+    }
 
 	}
-	.map-region:hover {
+	.map-region:hover, .map-region:active  {
 		background: url(../images/map.png);
-		background-position:0 600px;
+		background-position:0 606px;
+		background-size:100%;
 	}
+	
 }
 
 .full-width.about-two {

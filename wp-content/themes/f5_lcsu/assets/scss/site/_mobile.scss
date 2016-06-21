@@ -38,6 +38,19 @@ nav.tab-bar h1 {
 
 }
 
+@media only screen and (max-width: 768px) {
+	.full-width.about .map-region {
+		height:460px; 
+	}
+
+	.map-region:hover, .map-region:active  {
+		background: url(../images/map.png);
+		background-position:0 463px !important;
+		background-size:100%;
+		}
+
+}
+
 @media only screen and (max-width:568px) {
 
 	.v-align {
@@ -88,6 +101,8 @@ nav.tab-bar h1 {
 		.pjm-hero {
 		background: #162E54;
 		}
-
+		.full-width.about .map-region {
+			height:360px;
+		}
 		
 	}
