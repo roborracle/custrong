@@ -38,17 +38,51 @@ nav.tab-bar h1 {
 
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 773px) {
 	.full-width.about .map-region {
 		height:460px; 
+		background-repeat:no-repeat;
 	}
 
 	.map-region:hover, .map-region:active  {
 		background: url(../images/map.png);
-		background-position:0 463px !important;
+		background-position:0 bottom !important;
 		background-size:100%;
+		background-repeat:no-repeat;
 		}
 
+}
+@media only screen and (max-width: 736px) {
+	.full-width.about .map-region {
+		height:460px; 
+		background-repeat:no-repeat;
+	}
+ 
+	.map-region:hover, .map-region:active  {
+		// background: url(../images/map.png);
+		// background-position:0 440px !important;
+		background-size:100%;
+		background-repeat:no-repeat;
+		}
+
+}
+
+
+
+@media only screen and (max-width: 731px) {
+	.full-width.about .map-region {
+		height:420px; 
+		background-repeat:no-repeat;
+
+	}
+}
+
+@media only screen and (max-width: 640px) {
+	.full-width.about .map-region {
+		height:750px; 
+		background-repeat:no-repeat;
+
+	}
 }
 
 @media only screen and (max-width:568px) {
@@ -91,7 +125,27 @@ nav.tab-bar h1 {
 	.pjm-about-quote .about-sig {
 		font-size:1rem;
 	}
+	.full-width.about .map-region {
+		height:645px; 
+		background-repeat:no-repeat;
+
+	}
 }
+
+@media only screen and (max-width: 435px) {
+	.full-width.about .map-region {
+		height:490px; 
+		background-repeat:no-repeat;
+
+	}
+}
+
+@media only screen and (max-width: 375px) {
+		.full-width.about .map-region {
+		height:420px; 
+		background-repeat:no-repeat;
+		}
+	}
 
 @media only screen and (max-width: 320px) {
 		.v-align {

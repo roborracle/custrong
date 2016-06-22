@@ -17,7 +17,6 @@ get_header(); ?>
                     <div class="small-12 columns pjm-hero-inner">
                         <h4 class="hero-more">LSCU & CUNA provide member credit unions visible action on the local, state & national stages.
                         </h4>
-                        </h4>
                         <p class="pjm-button">
                             <a href="#join" class="button">Yes! I'm ready to join!</a>
                         </p>
@@ -70,7 +69,7 @@ get_header(); ?>
                 <p><strong>View the map below to see how CUNA and the leagues compare with the competing CU trade association:</strong></p>
             </div>
             <div class="map-region">
-            <img class="map-as-button" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/map.png" />
+          <!--   <img class="map-as-button" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/map.png" /> -->
             </div>
             
         </div>
@@ -126,9 +125,9 @@ get_header(); ?>
             </ul>
 
             <div class="show-for-medium-up">
-            <p class="text-center"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/webgraphic-1.png" / ></p> 
-            <p class="text-center"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/webgraphic-2.png" / ></p>
-             <p class="text-center"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/webgraphic-3.png" / ></p>
+            <p class="text-center"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/webgraphic-1.png" /></p> 
+            <p class="text-center"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/webgraphic-2.png" /></p>
+             <p class="text-center"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/webgraphic-3.png" /></p>
              </div>
 
              <div class="map-region-small show-for-small-only">
