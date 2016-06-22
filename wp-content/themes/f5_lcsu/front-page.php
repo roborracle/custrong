@@ -61,9 +61,15 @@ get_header(); ?>
                 We're not all talk. <br />
                 We take action.
             </h2>
-
-            <p><strong>Joining the real network of LSCU & CUNA means you get access to maximum action in national advocacy for credit unions. Check out our network vs. the competition by <span class="show-for-medium-up show-for-touch">tapping on the map below:<span class="show-for-medium-up hide-for-touch">hovering over the map below:</span></span><span class="show-for-small-only">viewing the maps below:</span></strong></p>
-            <div class="map-region" onclick="">
+            <p><strong>The map below depicts the states where individual donors have contributed more than $200 to an association’s Political Action Committee (PAC) based on federal reporting for 2014 and 2016 election cycles. As you can see, CUNA and the leagues have a wide advocacy base with networks and support throughout the United States — leading to real national impact. </strong></p>
+            <div class="show-for-medium-up">
+                <p class="hide-for-touch"><strong>Hover over the map to see how CUNA and the leagues compare with the competing CU trade association:</strong></p>
+                <p class="show-for-touch"><strong>Tap the map to see how CUNA and the leagues compare with the competing CU trade association:</strong></p>
+            </div>
+            <div class="show-for-small-only">
+                <p><strong>View the map below to see how CUNA and the leagues compare with the competing CU trade association:</strong></p>
+            </div>
+            <div class="map-region">
             <img class="map-as-button" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/map.png" />
             </div>
             
