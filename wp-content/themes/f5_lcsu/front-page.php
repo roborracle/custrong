@@ -52,7 +52,7 @@ get_header(); ?>
         </div>
     </div>
 </header>
-<div class="full-width about notched-box">
+<div id="about" class="full-width about notched-box">
     <div class="ps-border ps-translucent"></div>
 
     <div class="row">
@@ -77,7 +77,7 @@ get_header(); ?>
     </div>
 
 </div>
-<div class="about-bg">
+<div id="benefits" class="about-bg">
     <div class="row">
         <div class="small-12 columns v-align">
             <div class="v-align-wrap">
@@ -143,7 +143,7 @@ get_header(); ?>
 
     </div>
 </div>
-<div class="full-width testimonials notched-box">
+<div id="testimonials" class="full-width testimonials notched-box">
     <div class="ps-border ps-translucent"></div>
     <div class="row">
         <div class="small-12 columns text-center">
