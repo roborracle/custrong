@@ -24,7 +24,7 @@ get_header(); ?>
                 </div>
                 <div class="row text-center">
                 <div class="small-12 columns">
-                        <p><strong>The unique partnership between CUNA & LSCU generates:</strong></p>
+                        <p><strong>The unique partnership between LSCU & CUNA generates:</strong></p>
 
                 </div>
                 </div>
@@ -92,11 +92,11 @@ get_header(); ?>
 
         <div class="small-12 columns">
                                    
-             <p class="text-center"><strong>Our member credit unions prosper as CUNA and LSCU work hand-in-hand to deliver the best results in credit union legislative advocacy, compliance assistance, public-facing campaigns, training and professional development.</strong> </p>
+             <p class="text-center"><strong>Our member credit unions prosper as LSCU and CUNA work hand-in-hand to deliver the best results in credit union legislative advocacy, compliance assistance, public-facing campaigns, training and professional development.</strong> </p>
  
             <p class="text-center"><strong>Action across the local LSCU network leads to bigger, better impact at home and nationwide.</strong></p>
             <h2 class="text-center">Strong, coordinated federal & state advocacy.</h2>
-            <p>With partner state leagues across the United States, CUNA is able to advocate on Capitol Hill for all credit unions with the best insight and access of any trade association. With an equipped, empowered, and organized army of credit union leagues and tens of thousands of grassroots advocates, CUNA is the most influential credit union trade association in Washington.</p>
+            <p>With partner state leagues across the United States, CUNA is able to advocate on Capitol Hill for all credit unions with the best insight and access of any trade association. With an equipped, empowered and organized army of credit union leagues and tens of thousands of grassroots advocates, CUNA is the most influential credit union trade association in Washington.</p>
              
             <p>Member credit unions in Florida and Alabama gain access to state and federal decision-makers through LSCU, influencing regulations and legislation at both the national level and state level, too. Member-exclusive newsletters, action alerts and more keep credit union leaders up to date on the latest and most-impactful regulatory and legislative issues.</p>
             
@@ -110,7 +110,7 @@ get_header(); ?>
             <h2 class="text-center">Championing the cause of credit unions.</h2>
             <p>Our public-facing campaigns generate interest in credit unions and lead to growth for our members. That, combined with winning media outreach, gets our member credit unions’ message seen and heard in the media and among potential members.</p>
  
-            <p>Campaigns such as LSCU’s Cooperative Image and CUNA’s Don’t Tax My Credit Union, Stop the Data Breaches, and Ease the Burden have track records of success, effectively communicating the credit union brand proposition to consumers to strengthen relationships with members and establish new relationships with potential members. CUNA and LSCU provide top messaging and communication tools so that our member credit unions can achieve the results they need regardless of time, budget and resource constraints.</p>
+            <p>Campaigns such as LSCU’s Cooperative Image and CUNA’s Don’t Tax My Credit Union, Stop the Data Breaches, and Ease the Burden have track records of success, effectively communicating the credit union brand proposition to consumers to strengthen relationships with members and establish new relationships with potential members. LSCU and CUNA provide top messaging and communication tools so that our member credit unions can achieve the results they need regardless of time, budget and resource constraints.</p>
 
 
 
@@ -176,7 +176,7 @@ get_header(); ?>
             <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/jan-page.jpg" />
         </div>
         <div class="small-12 medium-9 columns small-only-text-center">
-            <p>“Community South chooses to be a member of CUNA and LSCU because we believe that a united voice is crucial. We know and trust the advocates that we have in Tallahassee and Washington and we are confident in their ability to protect the rights of our members to have access to affordable financial products and services. LSCU and CUNA are second to none. Quite simply, we affiliate for our members.”</p>
+            <p>“Community South chooses to be a member of LSCU and CUNA because we believe that a united voice is crucial. We know and trust the advocates that we have in Tallahassee and Washington and we are confident in their ability to protect the rights of our members to have access to affordable financial products and services. LSCU and CUNA are second to none. Quite simply, we affiliate for our members.”</p>
             <p>
                 <blockquote>Jan Page, President/CEO, Community South CU, Chipley, FL</blockquote>
             </p>
@@ -222,14 +222,14 @@ get_header(); ?>
     <div class="row ">
     <div class="medium-6 small-12 columns medium-text-right small-text-center">
     <h2>We Are Stronger Together</h2>
-            <p>CUNA and LSCU work together, providing positive forward motion for member credit unions. No other trade association provides the local network and national impact that CUNA and the leagues can.</p>
+            <p>LSCU and CUNA work together, providing positive forward motion for member credit unions. No other trade association provides the local network and national impact that CUNA and the leagues can.</p>
 
             <p>The combined power of a national association, state leagues, member credit unions and more than 100 million members form an unequaled network looking out for credit unions’ best interests.</p>
 
             <h2>Join The Network</h2>
             <p>Both federal- and state-chartered credit unions in Alabama and Florida are eligible to become member credit unions of LSCU and CUNA.</p>
 
-            <p>Please share your contact information with us so that the Credit Union National Association & League of Southeastern Credit Unions engagement team can follow up with you about joining. </p>
+            <p>Please share your contact information with us so that the League of Southeastern Credit Unions and Credit Union National Association engagement team can follow up with you about joining. </p>
             </div>
             <div class="medium-6 small-12 columns medium-text-left small-text-center">
             <p><?php echo do_shortcode( '[contact-form-7 id="4"]' ); ?></p>
