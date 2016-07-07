@@ -17,7 +17,7 @@
 		<?php do_action( 'foundationpress_before_footer' ); ?>
 		<div class="row">
 			<div class="small-12 columns">
-				<p class="small-text-center medium-text-right postscript">COPYRIGHT &copy; <?php echo date('Y'); ?> CUNA LSCU. ALL RIGHTS RESERVED</p>
+				<p class="small-text-center medium-text-right postscript">COPYRIGHT &copy; <?php echo date('Y'); ?> LSCU & CUNA. ALL RIGHTS RESERVED</p>
 			</div>
 		</div>	
 		<?php do_action( 'foundationpress_after_footer' ); ?>

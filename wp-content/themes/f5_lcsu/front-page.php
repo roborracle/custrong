@@ -222,7 +222,7 @@ get_header(); ?>
     <div class="row ">
     <div class="medium-6 small-12 columns medium-text-right small-text-center">
     <h2>We Are Stronger Together</h2>
-            <p>LSCU and CUNA work together, providing positive forward motion for member credit unions. No other trade association provides the local network and national impact that CUNA and the leagues can.</p>
+            <p>LSCU and CUNA work together, providing positive forward motion for member credit unions. No other trade association provides the local network and national impact that LSCU and CUNA can.</p>
 
             <p>The combined power of a national association, state leagues, member credit unions and more than 100 million members form an unequaled network looking out for credit unions’ best interests.</p>
 
