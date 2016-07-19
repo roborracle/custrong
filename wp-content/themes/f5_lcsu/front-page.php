@@ -60,7 +60,7 @@ get_header(); ?>
                 We're not all talk. <br />
                 We take action.
             </h2>
-            <p><strong>The map below depicts the states where individual donors have contributed more than $200 to an association’s Political Action Committee (PAC) based on federal reporting for 2014 and 2016 election cycles. As you can see, CUNA and the leagues have a wide advocacy base with networks and support throughout the United States — leading to real national impact. </strong></p>
+            <!-- <p><strong>The map below depicts the states where individual donors have contributed more than $200 to an association’s Political Action Committee (PAC) based on federal reporting for 2014 and 2016 election cycles. As you can see, CUNA and the leagues have a wide advocacy base with networks and support throughout the United States — leading to real national impact. </strong></p>
             <div class="show-for-medium-up">
                 <p class="hide-for-touch"><strong>Hover over the map to see how CUNA and the leagues compare with the competing CU trade association:</strong></p>
                 <p class="show-for-touch"><strong>Tap the map to see how CUNA and the leagues compare with the competing CU trade association:</strong></p>
@@ -69,8 +69,7 @@ get_header(); ?>
                 <p><strong>View the map below to see how CUNA and the leagues compare with the competing CU trade association:</strong></p>
             </div>
             <div class="map-region">
-          <!--   <img class="map-as-button" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/map.png" /> -->
-            </div>
+            </div> -->
             <div class="chart-region">
                 <div class="small-12 columns">
                     <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/lscu-graph.jpg" alt="Political Action Committee Fundraising Graph" />
