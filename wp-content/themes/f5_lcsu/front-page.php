@@ -71,6 +71,11 @@ get_header(); ?>
             <div class="map-region">
           <!--   <img class="map-as-button" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/map.png" /> -->
             </div>
+            <div class="chart-region">
+                <div class="small-12 columns">
+                    <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/lscu-graph.jpg" alt="Political Action Committee Fundraising Graph" />
+                </div>
+            </div>
             
         </div>
     </div>
