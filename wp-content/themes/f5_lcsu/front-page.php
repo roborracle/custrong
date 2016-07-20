@@ -108,7 +108,7 @@ get_header(); ?>
             <h2 class="text-center">Real-time regulatory compliance help from experts.</h2>
             <p>At the state level, LSCU daily empowers its member credit unions to grow and succeed. There’s no waiting game when you need customized compliance answers fast; LSCU and CUNA’s resources are second to none. LSCU members have access to responsive, dedicated, and well-known compliance experts Bill Berg and Mike Lee &mdash; only a quick text, phone call or email away.
  
-            <p>Forward-thinking and innovative, LSCU has tapped into CUNA’s robust network of state and regional leagues to develop an online compliance network, TotalCompliance, boasting shared resources that work to the advantage of credit union leaders.</p>
+            <p>Forward-thinking and innovative, LSCU has tapped into CUNA’s robust network of state and regional leagues to develop an online compliance network, DestinationCompliance, boasting shared resources that work to the advantage of credit union leaders.</p>
 
             <p>CUNA’s extensive federal compliance resources, including the CUNA eGuide to Federal Laws & Regulations and its members-only Compliance Community provides credit unions the most comprehensive federal tools, networking and information.</p>
            
@@ -152,7 +152,7 @@ get_header(); ?>
     <div class="row">
         <div class="small-12 columns text-center">
             <h2 id="pjm-tst" class="pjm-testimonials">Testimonials</h2>
-            <p>A recent independent survey of Alabama and Florida credit union CEOs revealed a net promoter score (likelihood of members to recommend the organization) of 64 – considered to be an excellent NPS – for LSCU. </p>
+            <p>A recent independent survey of Alabama and Florida credit union CEOs revealed a net promoter score (likelihood of members to recommend the organization) of 64 – considered to be an excellent NPS – for LSCU. Here’s what our members have to say about LSCU:</p>
         </div>
     </div>
     <div class="row">
