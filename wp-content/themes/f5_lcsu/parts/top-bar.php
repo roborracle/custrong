@@ -16,7 +16,7 @@
                 <h1 class="hide"><a href="<?php echo home_url(); ?>"><?php bloginfo( 'name' ); ?></a></h1>
                 <a href="http://lscu.coop" title="League of Southeastern Credit Unions & Affiliates"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/lscu.png" alt="<?php echo $blog_title = get_bloginfo('name'); ?>" /></a>
             </li>
-            <li class="name">
+            <li class="name second">
                 <h1 class="hide"><a href="<?php echo home_url(); ?>"><?php bloginfo( 'name' ); ?></a></h1>
                 <a href="http://cuna.org" title="Credit Union National Association"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/cuna.png" alt="<?php echo $blog_title = get_bloginfo('name'); ?>" /></a>
             </li>
