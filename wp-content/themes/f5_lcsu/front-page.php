@@ -152,7 +152,7 @@ get_header(); ?>
     <div class="row">
         <div class="small-12 columns text-center">
             <h2 id="pjm-tst" class="pjm-testimonials">Testimonials</h2>
-            <p>A recent independent survey of Alabama and Florida credit union CEOs revealed a net promoter score (likelihood of members to recommend the organization) of 64 – considered to be an excellent NPS – for LSCU. Here’s what our members have to say about LSCU:</p>
+            <p>A recent independent survey of Alabama and Florida credit union CEOs revealed a net promoter score (likelihood of members to recommend the organization) of 64 – considered to be an excellent score – for LSCU. Here’s what our members have to say about LSCU:</p>
         </div>
     </div>
     <div class="row">
