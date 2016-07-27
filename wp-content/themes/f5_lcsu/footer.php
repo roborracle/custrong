@@ -38,5 +38,6 @@
 
 <?php wp_footer(); ?>
 <?php do_action( 'foundationpress_before_closing_body' ); ?>
+<?php include('footer-scripts');
 </body>
 </html>
