@@ -37,7 +37,8 @@
 <?php endif; ?>
 
 <?php wp_footer(); ?>
+<?php include('footer-scripts'); ?>
 <?php do_action( 'foundationpress_before_closing_body' ); ?>
-<?php include('footer-scripts');
+
 </body>
 </html>
