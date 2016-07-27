@@ -37,7 +37,7 @@
 <?php endif; ?>
 
 <?php wp_footer(); ?>
-<?php include('footer-scripts'); ?>
+<?php include('smg-scripts.php'); ?>
 <?php do_action( 'foundationpress_before_closing_body' ); ?>
 
 </body>
