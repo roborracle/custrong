@@ -15,6 +15,24 @@
 	<head>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		!-- Place this data between the <head> tags of your website -->
+		<title>Local Network. National Impact.</title>
+		<meta name="description" content="LSCU & CUNA provide member credit unions visible action on the local, state & national stages./>
+
+		<!-- Twitter Card data -->
+		<meta name="twitter:title" content=" Get Action in Advocacy with LSCU and CUNA ">
+		<meta name="twitter:description" content=" LSCU & CUNA provide member credit unions visible action on the local, state & national stages.">
+		<meta name="twitter:image" content="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/lscu-twitter.png">
+
+		<!-- Open Graph data -->
+		<meta property="og:title" content="Get Action in Advocacy with LSCU and CUNA" />
+		<meta property="og:type" content="article" />
+		<meta property="og:url" content="http://custrong.com//>
+		<meta property="og:image" content="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/lscu-fb.png" />
+		<meta property="og:description" content="LSCU & CUNA provide member credit unions visible action on the local, state & national stages." /> 
+		<meta property="og:site_name" content="LSCU & CUNA" />
+		<meta property="fb:admins" content="Facebook numeric ID" />
+
 
 		<link rel="icon" href="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/icons/favicon.ico" type="image/x-icon">
 		<link rel="apple-touch-icon-precomposed" sizes="144x144" href="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/icons/apple-touch-icon-144x144-precomposed.png">
