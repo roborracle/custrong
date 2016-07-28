@@ -15,7 +15,6 @@
 	<head>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		!-- Place this data between the <head> tags of your website -->
 		<title>Local Network. National Impact.</title>
 		<meta name="description" content="LSCU & CUNA provide member credit unions visible action on the local, state & national stages./>
 
