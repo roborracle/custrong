@@ -26,7 +26,7 @@
 		<!-- Open Graph data -->
 		<meta property="og:title" content="Get Action in Advocacy with LSCU and CUNA" />
 		<meta property="og:type" content="article" />
-		<meta property="og:url" content="http://custrong.com//>
+		<meta property="og:url" content="http://custrong.com/">
 		<meta property="og:image" content="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/lscu-fb.png" />
 		<meta property="og:description" content="LSCU & CUNA provide member credit unions visible action on the local, state & national stages." /> 
 		<meta property="og:site_name" content="LSCU & CUNA" />
