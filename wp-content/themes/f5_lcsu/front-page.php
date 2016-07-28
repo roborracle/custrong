@@ -17,9 +17,9 @@ get_header(); ?>
                     <div class="small-12 columns pjm-hero-inner">
                         <h4 class="hero-more">LSCU & CUNA provide member credit unions visible action on the local, state & national stages.
                         </h4>
-                        <p class="pjm-button">
+<!--                         <p class="pjm-button">
                             <a href="#join" class="button">Yes! I'm ready to join!</a>
-                        </p>
+                        </p> -->
                     </div>
                 </div>
                 <div class="row text-center">
