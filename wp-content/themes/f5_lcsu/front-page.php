@@ -173,7 +173,7 @@ get_header(); ?>
             <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/john-hirabayashi.jpg" />
         </div>
         <div class="small-12 medium-9 columns small-only-text-center">
-            <p>“Being a member of both LSCU and CUNA benefits my credit union, our staff and ultimately our members. The information we receive on a daily basis in regards to what is happening in the legislative and regulatory arenas along make it worthwhile to be a member of both. However, that’s not where the benefits end. LSCU and CUNA afford us the opportunity to meet face to face with lawmakers, regulators, and key decision makers on a regular basis. The advocacy team does a great job advocating for the interests of credit unions. I’m proud that Community First CU is a member of both LSCU and CUNA!” </p>
+            <p>“Being a member of both LSCU and CUNA benefits my credit union, our staff and ultimately our members. The information we receive on a daily basis in regard to what is happening in the legislative and regulatory arenas alone make it worthwhile to be a member of both. However, that’s not where the benefits end. LSCU and CUNA afford us the opportunity to meet face to face with lawmakers, regulators, and key decision makers on a regular basis. The advocacy team does a great job advocating for the interests of credit unions. I’m proud that Community First CU is a member of both LSCU and CUNA!” </p>
             <p>
                 <blockquote>John Hirabayashi, President/CEO, Community First CU, Jacksonville, FL</blockquote>
             </p>
