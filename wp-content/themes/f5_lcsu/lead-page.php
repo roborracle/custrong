@@ -1,6 +1,6 @@
 <?php
 /*
-Template Name: Front
+Template Name: Lead Gen Page
 */
 get_header(); ?>
 <header class="pjm-hero" role="banner">
