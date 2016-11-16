@@ -2,7 +2,7 @@
 /*
 Template Name: Lead Gen Page
 */
-get_header('alt'); ?>
+get_header(); ?>
 <header class="pjm-hero" role="banner">
     <div class="full-width pjm-hero notched-box">
         <div class="ps-border ps-translucent"></div>
