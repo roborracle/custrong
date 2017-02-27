@@ -39,6 +39,6 @@
 <?php wp_footer(); ?>
 <?php include('smg-scripts.php'); ?>
 <?php do_action( 'foundationpress_before_closing_body' ); ?>
-
+<script src="//static.leadpages.net/leadboxes/current/embed.js" async defer></script> <script>window.addEventListener('LPLeadboxesReady',function(){LPLeadboxes.setExitIntent('141f6b773f72a2:12d5460aab46dc',{dontShowFor:'7d'});});</script> 
 </body>
 </html>
