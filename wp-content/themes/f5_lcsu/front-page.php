@@ -33,6 +33,7 @@ get_header(); ?>
                 <div class="row text-center">
                     <div class="medium-4 small-12 columns">
                         <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/LSCU_Icon1_V1.svg" />
+
                         <p>Strong, coordinated federal &amp; state advocacy efforts</p>
                     </div>
                     <div class="medium-4 small-12 columns">
@@ -75,7 +76,7 @@ get_header(); ?>
             </div>
  -->            <div class="chart-region">
                 <div class="small-12 columns">
-                    <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/lscu-graph.jpg" alt="Political Action Committee Fundraising Graph" />
+                    <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/lscu-graph-new.png" alt="Political Action Committee Fundraising Graph" />
                 </div>
             </div>
             
