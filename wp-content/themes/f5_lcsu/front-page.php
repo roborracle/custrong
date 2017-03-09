@@ -32,15 +32,15 @@ get_header(); ?>
                 </div>
                 <div class="row text-center">
                     <div class="medium-4 small-12 columns">
-                        <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/lscu-strong-01.svg" />
+                        <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/LSCU_Icon1_V1.svg" />
                         <p>Strong, coordinated federal &amp; state advocacy efforts</p>
                     </div>
                     <div class="medium-4 small-12 columns">
-                        <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/lscu-realtime-02.svg" />
+                        <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/LSCU_Icon2_V1.svg" />
                         <p>Real-time compliance help<br /> from experts</p>
                     </div>
                     <div class="medium-4 small-12 columns">
-                        <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/lscu-growth-03.svg" />
+                        <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/LSCU_Icon3_V1.svg" />
                         <p>Public-facing efforts that grow credit union memberships</p>
                     </div>
                     <div class="row">
