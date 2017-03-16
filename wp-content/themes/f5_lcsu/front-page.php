@@ -15,8 +15,7 @@ get_header(); ?>
                 </div>
                 <div class="row text-center">
                     <div class="small-12 columns pjm-hero-inner">
-                        <h4 class="hero-more">LSCU & CUNA provide member credit unions visible action on the local, state & national stages.
-                        </h4>
+                        <h4 class="hero-more">LSCU &amp; CUNA provide credit unions visible action on the local, state, &amp; national levels.</h4>
                         <br />
                         <br />
 <!--                         <p class="pjm-button">
@@ -24,30 +23,19 @@ get_header(); ?>
                         </p> -->
                     </div>
                 </div>
-                <div class="row text-center">
-                <div class="small-12 columns">
-                        <p><strong>The unique partnership between LSCU & CUNA generates:</strong></p>
 
-                </div>
-                </div>
                 <div class="row text-center">
                     <div class="medium-4 small-12 columns">
-                        <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/LSCU_Icon1_V1.svg" />
-
-                        <p>Strong, coordinated federal &amp; state advocacy efforts</p>
+                        <a href="#benefits"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/LSCU_Icon1_V1.svg" /></a>
+                        <p>Coordinated federal &amp; state advocacy</p>
                     </div>
                     <div class="medium-4 small-12 columns">
-                        <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/LSCU_Icon2_V1.svg" />
-                        <p>Real-time compliance help<br /> from experts</p>
+                        <a href="#help"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/LSCU_Icon2_V1.svg" /></a>
+                        <p>Real-time, in-person compliance help</p>
                     </div>
                     <div class="medium-4 small-12 columns">
-                        <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/LSCU_Icon3_V1.svg" />
-                        <p>Public-facing efforts that grow credit union memberships</p>
-                    </div>
-                    <div class="row">
-                        <div class="small-12 columns">
-                    <p><strong>... and so much more. Together, LSCU & CUNA create real results for our member credit unions.</strong></p>
-                    </div>
+                        <a href="#growth"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/LSCU_Icon3_V1.svg" /></a>
+                        <p>Public-facing efforts that grow credit unions</p>
                     </div>
                 </div>
             </div>
@@ -60,190 +48,104 @@ get_header(); ?>
     <div class="row">
         <div class="small-12 columns text-center">
             <h2 id="pjm-about" class="pjm-title">
-                We're not all talk. <br />
-                We take action.
+                1-2 Punch on Credit Union advocacy
             </h2>
-            <p><strong>The graph below depicts contributions to an association’s Political Action Committee (PAC) based on federal reporting for 2014 and 2016 election cycles. As you can see, CUNA and the league system is the only CU trade association providing real national impact. </strong></p>
-           <!--  <p><strong>The map below depicts the states where individual donors have contributed more than $200 to an association’s Political Action Committee (PAC) based on federal reporting for 2014 and 2016 election cycles. As you can see, CUNA and the leagues have a wide advocacy base with networks and support throughout the United States — leading to real national impact. </strong></p>
-            <div class="show-for-medium-up">
-                <p class="hide-for-touch"><strong>Hover over the map to see how CUNA and the leagues compare with the competing CU trade association:</strong></p>
-                <p class="show-for-touch"><strong>Tap the map to see how CUNA and the leagues compare with the competing CU trade association:</strong></p>
+            <div class="chart-region">
+                <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/lscu-graph-new.png" alt="Political Action Committee Fundraising Graph" />
             </div>
-            <div class="show-for-small-only">
-                <p><strong>View the map below to see how CUNA and the leagues compare with the competing CU trade association:</strong></p>
-            </div> -->
-           <!--  <div class="map-region">
-            </div>
- -->            <div class="chart-region">
-                <div class="small-12 columns">
-                    <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/lscu-graph-new.png" alt="Political Action Committee Fundraising Graph" />
-                </div>
-            </div>
-            
-        </div>
-    </div>
-
-</div>
-<div id="benefits" class="about-bg">
-    <div class="row">
-        <div class="small-12 columns v-align">
-            <div class="v-align-wrap">
-            
-            </div>
+            <p class="arrow">#1 FINANCIAL SERVICES ADVOCACY GROUP: CUNA was recently ranked first among all financial services trade associations engaged in Washington advocacy.</p>
         </div>
     </div>
 </div>
-<div class="full-width about-two notched-box">
-    <div class="ps-border ps-translucent"></div>
-    
-    <div class="row text">
 
-        <div class="small-12 columns">
-                                   
-             <p class="text-center"><strong>Our member credit unions prosper as LSCU and CUNA work hand-in-hand to deliver the best results in credit union legislative advocacy, compliance assistance, public-facing campaigns, training and professional development.</strong> </p>
- 
-            <p class="text-center"><strong>Action across the local LSCU network leads to bigger, better impact at home and nationwide.</strong></p>
-            <h2 class="text-center">Strong, coordinated federal & state advocacy.</h2>
-            <p>With partner state leagues across the United States, CUNA is able to advocate on Capitol Hill for all credit unions with the best insight and access of any trade association. With an equipped, empowered and organized army of credit union leagues and tens of thousands of grassroots advocates, CUNA is the most influential credit union trade association in Washington.</p>
-             
-            <p>Member credit unions in Florida and Alabama gain access to state and federal decision-makers through LSCU, influencing regulations and legislation at both the national level and state level, too. Member-exclusive newsletters, action alerts and more keep credit union leaders up to date on the latest and most-impactful regulatory and legislative issues.</p>
-            
-            <h2 class="text-center">Real-time regulatory compliance help from experts.</h2>
-            <p>At the state level, LSCU daily empowers its member credit unions to grow and succeed. There’s no waiting game when you need customized compliance answers fast; LSCU and CUNA’s resources are second to none. LSCU members have access to responsive, dedicated, and well-known compliance experts Bill Berg and Mike Lee &mdash; only a quick text, phone call or email away.
- 
-            <p>Forward-thinking and innovative, LSCU has tapped into CUNA’s robust network of state and regional leagues to develop an online compliance network, DestinationCompliance, boasting shared resources that work to the advantage of credit union leaders.</p>
-
-            <p>CUNA’s extensive federal compliance resources, including the CUNA eGuide to Federal Laws & Regulations and its members-only Compliance Community provides credit unions the most comprehensive federal tools, networking and information.</p>
-           
-            <h2 class="text-center">Championing the cause of credit unions.</h2>
-            <p>Our public-facing campaigns generate interest in credit unions and lead to growth for our members. That, combined with winning media outreach, gets our member credit unions’ message seen and heard in the media and among potential members.</p>
- 
-            <p>Campaigns such as LSCU’s Cooperative Image and CUNA’s Don’t Tax My Credit Union, Stop the Data Breaches, and Ease the Burden have track records of success, effectively communicating the credit union brand proposition to consumers to strengthen relationships with members and establish new relationships with potential members. LSCU and CUNA provide top messaging and communication tools so that our member credit unions can achieve the results they need regardless of time, budget and resource constraints.</p>
-
-
-
-            <h2 class="text-center">When you become a member credit union you gain unparalleled access to:</h2>
-            <ul>
-                <li>state and federal lawmakers</li>
-                <li>strong advocacy at the federal and state level</li>
-                <li>action alerts and breaking news updates on regulatory and legislative issues</li>
-                <li>real-time custom compliance help, resources and model policies from experts you know and trust</li>
-                <li>communications tools and advertising campaigns that show the credit union difference</li>
-                <li>and so much more.</li>
-            </ul>
-
-            <div class="show-for-medium-up">
-            <p class="text-center"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/webgraphic-1.png" /></p> 
-            <p class="text-center"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/webgraphic-2.png" /></p>
-             <p class="text-center"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/webgraphic-3.png" /></p>
-             </div>
-
-             <div class="map-region-small show-for-small-only">
-            <p class="text-center"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/sm-webgraphic-01.png" alt="" /></p>
-            <p class="text-center"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/sm-webgraphic-02a.png" alt="" /></p>
-            <p class="text-center"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/sm-webgraphic-02b.png" alt="" /></p>
-            <p class="text-center"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/sm-webgraphic-03a.png" alt="" /></p>
-            <p class="text-center"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/sm-webgraphic-03b.png" alt="" /></p>            
-            </div>
-
-        </div>
-
-    </div>
-</div>
-<div id="testimonials" class="full-width testimonials notched-box">
+<div id="benefits" class="full-width testimonials notched-box">
     <div class="ps-border ps-translucent"></div>
     <div class="row">
-        <div class="small-12 columns text-center">
-            <h2 id="pjm-tst" class="pjm-testimonials">Testimonials</h2>
-            <p>A recent independent survey of Alabama and Florida credit union CEOs revealed a net promoter score (likelihood of members to recommend the organization) of 64 – considered to be an excellent score – for LSCU. Here’s what our members have to say about LSCU:</p>
-        </div>
-    </div>
-    <div class="row">
-        <div class="small-12 medium-3 columns small-only-text-center">
-            <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/darryl-worrell.jpg" />
-        </div>
-        <div class="small-12 medium-9 columns small-only-text-center">
-            <p>“The benefits my credit union receives from being a member of both LSCU and CUNA are tenfold what we pay in dues. I believe that their combined efforts offer better access to our state and federal lawmakers than other trade associations. They work together to be able to pass key pieces of legislation, such as changes to Florida’s service of process laws for financial institutions, and offer us expert compliance guidance and support. I am proud that my credit union and our members are represented by the LSCU and CUNA.” </p>
-            <p>
-                <blockquote>Darryl Worrell, President/CEO, Envision CU, Tallahassee, FL</blockquote>
-            </p>
-        </div>
-    </div>
-    <div class="row">
-        <div class="small-12 medium-3 columns small-only-text-center">
-            <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/john-hirabayashi.jpg" />
-        </div>
-        <div class="small-12 medium-9 columns small-only-text-center">
-            <p>“Being a member of both LSCU and CUNA benefits my credit union, our staff and ultimately our members. The information we receive on a daily basis in regard to what is happening in the legislative and regulatory arenas alone make it worthwhile to be a member of both. However, that’s not where the benefits end. LSCU and CUNA afford us the opportunity to meet face to face with lawmakers, regulators, and key decision makers on a regular basis. The advocacy team does a great job advocating for the interests of credit unions. I’m proud that Community First CU is a member of both LSCU and CUNA!” </p>
-            <p>
+        <div class="small-12 medium-8 columns">
+            <h3 id="pjm-tst" class="arrow">Whose advocacy generates real results for credit unions?</h3>
+            <p class="arrow-following">With <b>8,000+ lawmaker meetings</b> annually and a <b>100% contact rate</b> with Florida and Alabama legislators, the partnership of LSCU and CUNA is the answer. In fact, <b>our trade association represents more than 90% of federal advocacy dollars</b> spent to promote credit union issues in 2016.</p>
+            <p class="arrow-following">Combined with member-exclusive newsletters, timely updates, and more, this keeps our credit union leaders up to date and confident that they have the best team on their side in federal and state advocacy battles.</p>
+            <div class="small-12 medium-3 columns small-only-text-center">
+                <img class="rounded" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/john-hirabayashi.jpg" />
+            </div>
+            <div class="small-12 medium-9 columns small-only-text-center">
+                <p>"LSCU and CUNA afford us the opportunity to meet face to face with lawmakers, regulators, and key decision makers on a regular basis. The advocacy team does a great job advocating for the interests of credit unions."</p>
                 <blockquote>John Hirabayashi, President/CEO, Community First CU, Jacksonville, FL</blockquote>
-            </p>
+            </div>
         </div>
-    </div>
-    <div class="row">
-        <div class="small-12 medium-3 columns small-only-text-center">
-            <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/jan-page.jpg" />
-        </div>
-        <div class="small-12 medium-9 columns small-only-text-center">
-            <p>“Community South chooses to be a member of LSCU and CUNA because we believe that a united voice is crucial. We know and trust the advocates that we have in Tallahassee and Washington and we are confident in their ability to protect the rights of our members to have access to affordable financial products and services. LSCU and CUNA are second to none. Quite simply, we affiliate for our members.”</p>
-            <p>
-                <blockquote>Jan Page, President/CEO, Community South CU, Chipley, FL</blockquote>
-            </p>
-        </div>
-    </div>
-    <div class="row">
-        <div class="small-12 medium-3 columns small-only-text-center">
-            <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/ola-anise.jpg" />
-        </div>
-        <div class="small-12 medium-9 columns small-only-text-center">
-            <p>“We chose to be members of LSCU and CUNA because we believe that together, our credit union's interest will be maximized at the local, state and national level. Additionally, the trainings that the League is able to offer at the local level add a great benefit to my credit union and ultimately our members.”</p>
-            <p>
-                <blockquote>Olabode Anise, President/CEO, Azalea City CU, Mobile, AL</blockquote>
-            </p>
-        </div>
-    </div>
-    <div class="row">
-        <div class="small-12 medium-3 columns small-only-text-center">
-            <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/bob-steensma.jpg" />
-        </div>
-        <div class="small-12 medium-9 columns small-only-text-center">
-            <p>“Choosing to affiliate with the League of Southeastern Credit Unions and CUNA has always been an easy decision for our credit union. We pay annual dues and get a daily benefit. Whether it’s the access to information, compliance guidance or the unmatched advocacy we get at the state and federal levels, I know we are receiving an incredible return on our credit union’s investment. While other trade associations can claim to offer you the same value you get from LSCU and CUNA membership at a lower cost, none can actually deliver on that promise. Five Star CU is proud to be affiliated with the LSCU and CUNA.”</p>
-            <p>
-                <blockquote>Bob Steensma, President/CEO Five Star CU, Dothan, AL</blockquote>
-            </p>
+        <div class="small-12 medium-4 columns small-only-text-center">
+            <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/Web_infographic_AF.png" />
+            <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/Web_infographic_EA.png" />
+            <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/Web_infographic_GS.png" />
         </div>
     </div>
     
-    <div class="row">
-        <div class="small-12 medium-3 columns small-only-text-center">
-            <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/steve-swofford.png" />
+    <div class="row" id="help">
+        <div class="row">
+            <div class="small-12 medium-8 columns">
+                <h3 id="pjm-tst" class="arrow">Need quick answers to complex compliance questions?</h3>
+                <p class="arrow-following">Regulatory compliance experts <b>Bill Berg</b> and <b>Mike Lee</b> offer in-person help and training and can provide quick answers on a call, in a text, or via email to LSCU members when they need it most.</p>
+                <p class="arrow-following">That’s not all: CUNA offers access to <b>DestinationCompliance</b>, a one-of-a-kind online compliance network, with exclusive resources from CUNA’s nationwide network of leagues and their compliance experts.</p>
+            </div>
+            <div class="small-12 medium-4 columns small-only-text-center">
+                <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/BillMike.png" />
+            </div>
         </div>
-        <div class="small-12 medium-9 columns small-only-text-center">
-            <p>“I would tell any credit union official that if you have the resources and the desire to belong to other associations outside the League/CUNA structure, then go ahead. However, to make the choice to support only those organizations at the exclusion of the LSCU and CUNA is shortsighted. A weaker CUNA/League system leaves us more exposed to the many environmental threats so evident today. I believe our very survival depends on a strong CUNA and a responsive League.”</p>
-            <p>
-                <blockquote>Steve Swofford, President/CEO, Alabama CU, Tuscaloosa, AL</blockquote>
-            </p>
+        <div class="row helper">
+            <div class="small-12 medium-2 columns small-only-text-center">
+                <img class="rounded" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/ola-anise.jpg" />
+            </div>
+            <div class="small-12 medium-10 columns small-only-text-center">
+                <p>"The trainings that the League is able to offer at the local level add a great benefit to my credit union and ultimately our members."</p>
+                <blockquote>Olabode Anise, President/CEO, Azalea City CU, Mobile, AL</blockquote>
+            </div>
+        </div>
+    </div>
+    
+    <div class="row" id="growth">
+        <div class="row">
+            <div class="small-12 medium-8 columns">
+                <h3 id="pjm-tst" class="arrow">How do you break through the clutter and reach prospective members?</h3>
+                <p class="arrow-following">Do consumers understand what sets your credit union apart from other financial options in your area?</p>
+                <p class="arrow-following">LSCU and CUNA will help you grow your membership with <b>award-winning public awareness campaigns</b> that fit within your budget and available resources.</p>
+                <p class="arrow-following">Combined with industry-leading media outreach strategies, we get credit union stories noticed by those who matter in their communities.</p>
+                <p class="arrow-following">Here’s how our latest initiative, the Middle Class Campaign for Common-Sense Regulation, is helping credit unions: <a href="https://www.cuna.org/commonsensereg/">www.cuna.org/commonsensereg</a></p>
+            </div>
+            <div class="small-12 medium-4 columns small-only-text-center">
+                <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/common-sense_large.jpg" />
+            </div>
+        </div>
+        <div class="row helper">
+            <div class="small-12 medium-2 columns small-only-text-center">
+                <img class="rounded" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/jan-page.jpg"/>
+            </div>
+            <div class="small-12 medium-10 columns small-only-text-center">
+                <p>"We know and trust the advocates that we have in Tallahassee and Washington and we are confident in their ability to protect the rights of our members to have access to affordable financial products and services. … We affiliate for our members."</p>
+                <blockquote>Jan Page, President/CEO, Community South CU, Chipley, FL</blockquote>
+            </div>
         </div>
     </div>
 </div>
+
+
 <div id="join" class="full-width contact notched-box">
     <div class="ps-border ps-translucent"></div>
     <div class="row ">
-    <div class="medium-6 small-12 columns medium-text-right small-text-center">
-    <h2>We Are Stronger Together</h2>
-            <p>LSCU and CUNA work together, providing positive forward motion for member credit unions. No other trade association provides the local network and national impact that LSCU and CUNA can.</p>
-
-            <p>The combined power of a national association, state leagues, member credit unions and more than 100 million members form an unequaled network looking out for credit unions’ best interests.</p>
-
-            <h2>Join The Network</h2>
-            <p>Both federal- and state-chartered credit unions in Alabama and Florida are eligible to become member credit unions of LSCU and CUNA.</p>
-
-            <p>Please share your contact information with us so that the League of Southeastern Credit Unions and Credit Union National Association engagement team can follow up with you about joining. </p>
-            </div>
-            <div class="medium-6 small-12 columns medium-text-left small-text-center">
+    <div class="small-12 columns">
+        <h2>Renew your Memebership <span>or</span> Join today</h2>
+        <div class="tight">
+            <h4>Here’s what you'll get:</h4>
+            <ul>
+                <li>Access to state and federal lawmakers</li>
+                <li>The nation’s strongest credit union advocacy force</li>
+                <li>Real-time expert compliance help with customized resources and model policies</li>
+                <li>Campaigns that show the credit union difference and reach new members</li>
+                <li>… and so much more.</li>
+            </ul>
+            <p>Federal- and state-chartered credit unions in Alabama and Florida are eligible for LSCU and CUNA membership.</p>
+            <p>Are you considering membership or renewal, but you’re not sure if your credit union is the right fit? Provide your name, email or phone number, and credit union name below and an LSCU representative will contact you shortly to help you make the right choice:</p>
             <p><?php echo do_shortcode( '[contact-form-7 id="4"]' ); ?></p>
-           </div>
-
+        </div>
     </div>
     <!--  -->
 </div>

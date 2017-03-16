@@ -66,3 +66,10 @@ h3.pjm-about-quote {
 }
 
 .pjm-red {color:$pjm-red;}
+
+blockquote,
+blockquote p {
+    color: $pjm-ltgrey;
+    padding: 0.5625rem 1.25rem 0.5625rem 1.1875rem;
+
+}

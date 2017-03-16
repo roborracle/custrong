@@ -13,10 +13,9 @@ get_header(); ?>
                         <h2 class="hero-title">Thank you.</h2>
                     </div>
                 </div>
-                <div class="row text-center">
+                <div class="row text-center thanks">
                     <div class="small-12 columns pjm-hero-inner">
-                        <h4 class="hero-more">We will follow up with you shortly.
-                        </h4>
+                        <h4 class="hero-more">We will follow up with you shortly.</h4>
                     </div>
                 </div>
             </div>
