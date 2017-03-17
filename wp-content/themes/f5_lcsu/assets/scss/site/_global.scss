@@ -90,7 +90,6 @@ img.alignright {
 
 .pjm-title {
 	display:inline-block;
-	border-bottom:5px solid $pjm-red;
 	font-size:3rem;
 	max-width: 600px;
 	margin-bottom:20px;
@@ -131,6 +130,9 @@ img.alignright {
 
 .arrow-following {
 	padding-left: 2rem;	
+}
+.arrow-following-arrow {
+	padding-left: 1.0625rem;	
 }
 
 .v-align-wrap {
@@ -209,7 +211,6 @@ li.name {
 .full-width.testimonials {
 
 	& .row {
-    margin-bottom:50px;
     padding-bottom:30px;
 	}
 
@@ -371,6 +372,26 @@ input.wpcf7-form-control.wpcf7-submit:hover {
 	border-left: 2em solid transparent;
 }
 
+.mini-graphics {
+	margin-bottom: 1rem;
+
+	img {
+		width: 31.5%;
+
+		@media (max-width: 600px) {
+			width: 49%;
+		}
+		@media (max-width: 440px) {
+			width: 100%;
+		}
+	}
+}
+
+.impact {
+	font-size: 1.4rem;
+}
+
+
 // menu fixes
 
 .top-bar-section ul li, .top-bar-section li.active:not(.has-form) a:not(.button), .top-bar-section li:not(.has-form) a:not(.button) {
@@ -396,7 +417,7 @@ input.wpcf7-form-control.wpcf7-submit:hover {
 
 .rounded {
 	border-radius:100%;
-	border:7px solid white;
+	border:7px solid $pjm-green;
 	margin-bottom: 1rem;
 }
 

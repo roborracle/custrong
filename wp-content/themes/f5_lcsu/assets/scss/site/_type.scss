@@ -69,7 +69,13 @@ h3.pjm-about-quote {
 
 blockquote,
 blockquote p {
-    color: $pjm-ltgrey;
+    color: lighten($pjm-ltgrey, 15%);
+    font-size: 1.125rem;
     padding: 0.5625rem 1.25rem 0.5625rem 1.1875rem;
 
+    &.right {
+        text-align: right;
+        border-left: none;
+        border-right: 1px solid #DDD;
+    }
 }

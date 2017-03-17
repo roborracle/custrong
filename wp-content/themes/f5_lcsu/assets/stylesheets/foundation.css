@@ -8793,7 +8793,6 @@ img.alignright {
 
 .pjm-title {
   display: inline-block;
-  border-bottom: 5px solid #cc3524;
   font-size: 3rem;
   max-width: 600px;
   margin-bottom: 20px; }
@@ -8826,6 +8825,9 @@ img.alignright {
 
 .arrow-following {
   padding-left: 2rem; }
+
+.arrow-following-arrow {
+  padding-left: 1.0625rem; }
 
 .v-align-wrap {
   position: relative;
@@ -8882,7 +8884,6 @@ li.name {
     margin-bottom: 40px; }
 
 .full-width.testimonials .row {
-  margin-bottom: 50px;
   padding-bottom: 30px; }
 
 .full-width.contact {
@@ -9002,6 +9003,20 @@ input.wpcf7-form-control.wpcf7-submit:hover {
   right: 0;
   border-left: 2em solid transparent; }
 
+.mini-graphics {
+  margin-bottom: 1rem; }
+  .mini-graphics img {
+    width: 31.5%; }
+    @media (max-width: 600px) {
+      .mini-graphics img {
+        width: 49%; } }
+    @media (max-width: 440px) {
+      .mini-graphics img {
+        width: 100%; } }
+
+.impact {
+  font-size: 1.4rem; }
+
 .top-bar-section ul li, .top-bar-section li.active:not(.has-form) a:not(.button), .top-bar-section li:not(.has-form) a:not(.button) {
   font-family: 'montserratregular';
   text-transform: uppercase;
@@ -9022,7 +9037,7 @@ input.wpcf7-form-control.wpcf7-submit:hover {
 
 .rounded {
   border-radius: 100%;
-  border: 7px solid white;
+  border: 7px solid #95D600;
   margin-bottom: 1rem; }
 
 .testimonials h3 {
@@ -9296,8 +9311,14 @@ h3.pjm-about-quote {
 
 blockquote,
 blockquote p {
-  color: #AFAFB1;
+  color: #d6d6d7;
+  font-size: 1.125rem;
   padding: 0.5625rem 1.25rem 0.5625rem 1.1875rem; }
+  blockquote.right,
+  blockquote p.right {
+    text-align: right;
+    border-left: none;
+    border-right: 1px solid #DDD; }
 
 @media only screen and (max-width: 820px) {
   .top-bar-container {
