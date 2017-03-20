@@ -8779,7 +8779,8 @@ img.alignright {
   background: #1f355e;
   background-size: 100%;
   background-repeat: no-repeat;
-  background-position: bottom 	center; }
+  background-position: bottom 	center;
+  min-height: 300px; }
   .pjm-hero h2 {
     color: white; }
   .pjm-hero h4 {
@@ -9422,8 +9423,6 @@ blockquote p {
   .pjm-hero-inner.start {
     margin-top: 10px;
     margin-bottom: 10px; }
-  .pjm-hero {
-    height: auto; }
   .pjm-about-quote .about-sig {
     font-size: 1rem; }
   .full-width.about .map-region {
