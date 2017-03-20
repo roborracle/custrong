@@ -40,5 +40,15 @@
 <?php include('smg-scripts.php'); ?>
 <?php do_action( 'foundationpress_before_closing_body' ); ?>
 <script src="//static.leadpages.net/leadboxes/current/embed.js" async defer></script> <script>window.addEventListener('LPLeadboxesReady',function(){LPLeadboxes.setExitIntent('141f6b773f72a2:12d5460aab46dc',{dontShowFor:'7d'});});</script> 
+<script>
+	var mobileMenuLinks = document.querySelectorAll('.off-canvas-list li');
+	for ( var i = 0; i < mobileMenuLinks.length; i++) {
+		mobileMenuLinks[i].addEventListener("click", closeMenu, false );
+	}
+
+	function closeMenu() {
+		document.querySelector('.off-canvas-wrap').classList.remove('move-right');
+	}
+</script>
 </body>
 </html>

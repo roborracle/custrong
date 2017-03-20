@@ -67,6 +67,10 @@ h3.pjm-about-quote {
 
 .pjm-red {color:$pjm-red;}
 
+b {
+    font-family: 'montserratsemi_bold';
+}
+
 blockquote,
 blockquote p {
     color: lighten($pjm-ltgrey, 15%);
@@ -77,5 +81,17 @@ blockquote p {
         text-align: right;
         border-left: none;
         border-right: 1px solid #DDD;
+    }
+}
+
+@media (max-width: 640px) {
+    blockquote {
+        max-width: 85%;
+        margin-left: 7.5%;
+
+        &.right {
+            margin-left: auto;
+            margin-right: 7.5%;
+        }
     }
 }

@@ -58,7 +58,7 @@ get_header(); ?>
                 <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/Web_infographic_EA.png" />
                 <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/Web_infographic_GS.png" />
             </div>
-            <p class="arrow impact">#1 FINANCIAL SERVICES ADVOCACY GROUP: CUNA was recently ranked first among all financial services trade associations engaged in Washington advocacy.</p>
+            <p class="arrow impact"><b>#1 FINANCIAL SERVICES ADVOCACY GROUP:</b> CUNA was recently ranked first among all financial services trade associations engaged in Washington advocacy.</p>
         </div>
     </div>
 </div>
@@ -86,12 +86,12 @@ get_header(); ?>
                 <h3 id="pjm-tst" class="arrow">Need quick answers to complex compliance questions?</h3>
                 <p class="arrow-following">Regulatory compliance experts <b>Bill Berg</b> and <b>Mike Lee</b> offer in-person help and training and can provide quick answers on a call, in a text, or via email to LSCU members when they need it most.</p>
                 <p class="arrow-following">That’s not all: CUNA offers access to <b>DestinationCompliance</b>, a one-of-a-kind online compliance network, with exclusive resources from CUNA’s nationwide network of leagues and their compliance experts.</p>
+                <div class="small-12 medium-3 columns small-only-text-center alignright">
+                    <img class="rounded" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/ola-anise.jpg" />
+                </div>
                 <div class="small-12 medium-9 columns small-only-text-center">
                     <p class="arrow-following-arrow">"The trainings that the League is able to offer at the local level add a great benefit to my credit union and ultimately our members."</p>
                     <blockquote class="right">Olabode Anise, President/CEO, Azalea City CU, Mobile, AL</blockquote>
-                </div>
-                <div class="small-12 medium-3 columns small-only-text-center">
-                    <img class="rounded" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/ola-anise.jpg" />
                 </div>
             </div>
         </div>
