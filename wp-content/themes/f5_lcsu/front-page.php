@@ -123,7 +123,7 @@ get_header(); ?>
     <div class="ps-border ps-translucent"></div>
     <div class="row ">
     <div class="small-12 columns">
-        <h2>Renew your Memebership <span>or</span> Join today</h2>
+        <h2>Renew your Membership <span>or</span> Join today</h2>
         <div class="tight">
             <h4>Here’s what you'll get:</h4>
             <ul>
