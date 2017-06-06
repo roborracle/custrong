@@ -7,7 +7,7 @@
 		"uuidString": "A29D7F26-6943-461B-825C-A7AA0098A510"
 		}
 	],
-"creatorBuild": "25704",
+"creatorBuild": "25813",
 "files": {
 	"\/.bowerrc": {
 		"ft": 8192,
@@ -3302,11 +3302,12 @@
 	"\/assets\/components\/modernizr\/media\/Modernizr 2 Logo.png": {
 		"ft": 32768,
 		"iS": 14823,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/components\/modernizr\/media\/Modernizr 2 Logo.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/components\/modernizr\/media\/Modernizr 2 Logo.svg": {
@@ -3361,31 +3362,34 @@
 	"\/assets\/components\/modernizr\/test\/caniuse_files\/alpha.png": {
 		"ft": 32768,
 		"iS": 163,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/components\/modernizr\/test\/caniuse_files\/alpha.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/components\/modernizr\/test\/caniuse_files\/apng_test.png": {
 		"ft": 32768,
 		"iS": 195,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/components\/modernizr\/test\/caniuse_files\/apng_test.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/components\/modernizr\/test\/caniuse_files\/before-after.png": {
 		"ft": 32768,
 		"iS": 452,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/components\/modernizr\/test\/caniuse_files\/before-after.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/components\/modernizr\/test\/caniuse_files\/form_validation.html": {
@@ -3406,11 +3410,12 @@
 	"\/assets\/components\/modernizr\/test\/caniuse_files\/green5x5.png": {
 		"ft": 32768,
 		"iS": 72,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/components\/modernizr\/test\/caniuse_files\/green5x5.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/components\/modernizr\/test\/caniuse_files\/hashchange.html": {
@@ -3437,11 +3442,12 @@
 	"\/assets\/components\/modernizr\/test\/caniuse_files\/mathml_ref.png": {
 		"ft": 32768,
 		"iS": 3140,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/components\/modernizr\/test\/caniuse_files\/mathml_ref.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/components\/modernizr\/test\/caniuse_files\/modernizr-1.7.min.js": {
@@ -3456,11 +3462,12 @@
 	"\/assets\/components\/modernizr\/test\/caniuse_files\/png_alpha_result.png": {
 		"ft": 32768,
 		"iS": 214,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/components\/modernizr\/test\/caniuse_files\/png_alpha_result.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/components\/modernizr\/test\/caniuse_files\/pushstate.html": {
@@ -3472,31 +3479,34 @@
 	"\/assets\/components\/modernizr\/test\/caniuse_files\/red30x30.png": {
 		"ft": 32768,
 		"iS": 93,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/components\/modernizr\/test\/caniuse_files\/red30x30.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/components\/modernizr\/test\/caniuse_files\/ruby.png": {
 		"ft": 32768,
 		"iS": 1339,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/components\/modernizr\/test\/caniuse_files\/ruby.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/components\/modernizr\/test\/caniuse_files\/stroked-text.png": {
 		"ft": 32768,
 		"iS": 1291,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/components\/modernizr\/test\/caniuse_files\/stroked-text.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/components\/modernizr\/test\/caniuse_files\/style.css": {
@@ -3512,11 +3522,12 @@
 	"\/assets\/components\/modernizr\/test\/caniuse_files\/svg-html-blur.png": {
 		"ft": 32768,
 		"iS": 1232,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/components\/modernizr\/test\/caniuse_files\/svg-html-blur.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/components\/modernizr\/test\/caniuse_files\/svg-img.svg": {
@@ -3538,41 +3549,45 @@
 	"\/assets\/components\/modernizr\/test\/caniuse_files\/svg_blur.png": {
 		"ft": 32768,
 		"iS": 3742,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/components\/modernizr\/test\/caniuse_files\/svg_blur.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/components\/modernizr\/test\/caniuse_files\/table.png": {
 		"ft": 32768,
 		"iS": 2519,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/components\/modernizr\/test\/caniuse_files\/table.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/components\/modernizr\/test\/caniuse_files\/text-shadow1.png": {
 		"ft": 32768,
 		"iS": 796,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/components\/modernizr\/test\/caniuse_files\/text-shadow1.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/components\/modernizr\/test\/caniuse_files\/text-shadow2.png": {
 		"ft": 32768,
 		"iS": 1680,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/components\/modernizr\/test\/caniuse_files\/text-shadow2.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/components\/modernizr\/test\/caniuse_files\/Windsong-webfont.eot": {
@@ -3612,11 +3627,12 @@
 	"\/assets\/components\/modernizr\/test\/caniuse_files\/windsong_font.png": {
 		"ft": 32768,
 		"iS": 1339,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/components\/modernizr\/test\/caniuse_files\/windsong_font.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/components\/modernizr\/test\/caniuse_files\/xhtml.html": {
@@ -3913,11 +3929,12 @@
 	"\/assets\/images\/5C9908CF70BC7774.png": {
 		"ft": 32768,
 		"iS": 319414,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/images\/5C9908CF70BC7774.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/images\/Archive.zip": {
@@ -3929,11 +3946,12 @@
 	"\/assets\/images\/BillMike.png": {
 		"ft": 32768,
 		"iS": 519240,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/images\/BillMike.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/images\/bob-steensma.jpg": {
@@ -3942,17 +3960,19 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/bob-steensma.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
 	"\/assets\/images\/Captial_Buildings.png": {
 		"ft": 32768,
 		"iS": 38028,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/images\/Captial_Buildings.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/images\/common-sense_large.jpg": {
@@ -3961,17 +3981,19 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/common-sense_large.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
 	"\/assets\/images\/cuna.png": {
 		"ft": 32768,
 		"iS": 8551,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/images\/cuna.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/images\/darryl-worrell.jpg": {
@@ -3980,17 +4002,19 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/darryl-worrell.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
 	"\/assets\/images\/demo\/350x150.png": {
 		"ft": 32768,
 		"iS": 6486,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/images\/demo\/350x150.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/images\/demo\/andromeda-orbit.jpg": {
@@ -3999,6 +4023,7 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/demo\/andromeda-orbit.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -4008,6 +4033,7 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/demo\/comet-th-sm.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -4017,6 +4043,7 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/demo\/comet-th.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -4026,6 +4053,7 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/demo\/comet.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -4035,6 +4063,7 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/demo\/earth-th-sm.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -4044,17 +4073,19 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/demo\/earth.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
 	"\/assets\/images\/demo\/fpmock.png": {
 		"ft": 32768,
 		"iS": 253689,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/images\/demo\/fpmock.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/images\/demo\/hero-image.svg": {
@@ -4073,6 +4104,7 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/demo\/launch-orbit.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -4082,6 +4114,7 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/demo\/launch-th-sm.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -4091,6 +4124,7 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/demo\/launch-th.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -4100,6 +4134,7 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/demo\/launch.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -4119,6 +4154,7 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/demo\/satelite-orbit.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -4128,6 +4164,7 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/demo\/satelite-th-sm.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -4137,6 +4174,7 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/demo\/satelite.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -4146,6 +4184,7 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/demo\/space-th-sm.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -4155,6 +4194,7 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/demo\/space-th.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -4164,6 +4204,7 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/demo\/space.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -4173,17 +4214,19 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/demo\/spacewalk-th.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/assets\/images\/Favicon.png": {
+	"\/assets\/images\/favicon.png": {
 		"ft": 32768,
 		"iS": 480,
-		"l": 1,
 		"oA": 0,
-		"oAP": "\/assets\/images\/Favicon.png",
+		"oAP": "\/assets\/images\/favicon.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/images\/icons\/favicon.ico": {
@@ -4198,6 +4241,7 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/jan-page.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -4207,37 +4251,41 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/john-hirabayashi.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
 	"\/assets\/images\/logo.png": {
 		"ft": 32768,
 		"iS": 22937,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/images\/logo.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/images\/lscu-fb.png": {
 		"ft": 32768,
 		"iS": 139412,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/images\/lscu-fb.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/images\/lscu-graph-new.png": {
 		"ft": 32768,
 		"iS": 35918,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/images\/lscu-graph-new.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/images\/lscu-graph.jpg": {
@@ -4246,27 +4294,30 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/lscu-graph.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
 	"\/assets\/images\/lscu-twitter.png": {
 		"ft": 32768,
 		"iS": 81545,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/images\/lscu-twitter.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/images\/lscu.png": {
 		"ft": 32768,
 		"iS": 4239,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/images\/lscu.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/images\/LSCU_Icon1_V1.svg": {
@@ -4302,31 +4353,34 @@
 	"\/assets\/images\/lscuOLD.png": {
 		"ft": 32768,
 		"iS": 71831,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/images\/lscuOLD.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/images\/map-2.png": {
 		"ft": 32768,
 		"iS": 138950,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/images\/map-2.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/images\/map.png": {
 		"ft": 32768,
 		"iS": 228741,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/images\/map.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/images\/ola-anise.jpg": {
@@ -4335,6 +4389,7 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/ola-anise.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -4371,141 +4426,155 @@
 	"\/assets\/images\/sm-webgraphic-01.png": {
 		"ft": 32768,
 		"iS": 32800,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/images\/sm-webgraphic-01.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/images\/sm-webgraphic-02a.png": {
 		"ft": 32768,
 		"iS": 30500,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/images\/sm-webgraphic-02a.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/images\/sm-webgraphic-02b.png": {
 		"ft": 32768,
 		"iS": 33384,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/images\/sm-webgraphic-02b.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/images\/sm-webgraphic-03a.png": {
 		"ft": 32768,
 		"iS": 28550,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/images\/sm-webgraphic-03a.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/images\/sm-webgraphic-03b.png": {
 		"ft": 32768,
 		"iS": 30339,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/images\/sm-webgraphic-03b.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/images\/steve-swofford.png": {
 		"ft": 32768,
 		"iS": 99660,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/images\/steve-swofford.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/images\/Web_infographic_AF.png": {
 		"ft": 32768,
 		"iS": 89254,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/images\/Web_infographic_AF.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/images\/Web_infographic_EA.png": {
 		"ft": 32768,
 		"iS": 86287,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/images\/Web_infographic_EA.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/images\/Web_infographic_GS.png": {
 		"ft": 32768,
 		"iS": 76042,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/images\/Web_infographic_GS.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/images\/webgraphic-1.png": {
 		"ft": 32768,
 		"iS": 67064,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/images\/webgraphic-1.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/images\/webgraphic-2.png": {
 		"ft": 32768,
 		"iS": 10282,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/images\/webgraphic-2.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/images\/webgraphic-2OLD.png": {
 		"ft": 32768,
 		"iS": 74668,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/images\/webgraphic-2OLD.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/images\/webgraphic-3.png": {
 		"ft": 32768,
 		"iS": 59108,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/images\/webgraphic-3.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/images\/White_arrow_with_Circle.png": {
 		"ft": 32768,
 		"iS": 18806,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/images\/White_arrow_with_Circle.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/javascript\/custom\/init-foundation.js": {
@@ -4629,12 +4698,12 @@
 		"uL": 1
 		},
 	"\/assets\/scss\/foundation.scss": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
 		"ft": 4,
-		"ma": 1,
+		"ma": 0,
 		"oA": 0,
 		"oAP": "\/assets\/stylesheets\/foundation.css",
 		"oF": 2,
@@ -5122,6 +5191,12 @@
 		"oAP": "\/MIT-LICENSE.txt",
 		"oF": 0
 		},
+	"\/node_modules": {
+		"ft": 65536,
+		"oA": 2,
+		"oAP": "\/build\/node_modules",
+		"oF": 0
+		},
 	"\/package.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -5187,11 +5262,12 @@
 	"\/screenshot.png": {
 		"ft": 32768,
 		"iS": 22735,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/screenshot.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/search.php": {
@@ -5271,7 +5347,7 @@
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
-	"alwaysUseExternalServer": 1,
+	"alwaysUseExternalServer": 0,
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
@@ -6227,6 +6303,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-prototype-builtins": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-redeclare": {
 			"active": 1,
 			"optionString": "{'builtinGlobals': false}"
@@ -6621,7 +6701,7 @@
 			}
 		},
 	"esLintSourceType": 0,
-	"externalServerAddress": "http:\/\/lscu.local",
+	"externalServerAddress": "http:\/\/localhost:8888",
 	"gitIgnoreBuildFolder": 1,
 	"hideConfigFile": 0,
 	"jsCheckerReservedNamesString": "",
@@ -7051,14 +7131,6 @@
 		"orderOutput": 0,
 		"outputStyle": 1
 		},
-	"languageDefaultsJSX": {
-		"autoOutputAction": 0,
-		"autoOutputPathFilenamePattern": "*.js",
-		"autoOutputPathRelativePath": "",
-		"autoOutputPathReplace1": "jsx",
-		"autoOutputPathReplace2": "js",
-		"autoOutputPathStyle": 0
-		},
 	"languageDefaultsKIT": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.html",
@@ -7121,7 +7193,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
-		"enableLossy": 1,
+		"optimizerType": 1,
 		"quality": 100
 		},
 	"languageDefaultsPUG": {
